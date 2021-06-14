@@ -1,7 +1,8 @@
 @charset "UTF-8";
-/* CSS Document *
+/* CSS Document */
 
-body (
+body{
     background-color: #00F;
-
-)
+    font-weight:bold;
+    color:#F00;
+}
