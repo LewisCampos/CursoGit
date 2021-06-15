@@ -7,7 +7,8 @@ class Vehiculos():
     
     def __str__(self):
         print(f"La marca es: {self.marca}\nEl modelo es: {self.modelo}\nEn marcha: {self.enmarcha}")
-
+    
 miCarro1=Vehiculos("Toyota", "Canry")
 
+print(5+4)
 print(miCarro1)
